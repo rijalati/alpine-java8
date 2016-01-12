@@ -1,4 +1,4 @@
-FROM alpine:latest
+FROM gliderlabs/alpine:latest
 MAINTAINER rijalati@gmail.com
 
 RUN apk update
